@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I am a junior university student who is dreaming to be a AI developer.
 
 <!--
 **Kwanjoon/Kwanjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
